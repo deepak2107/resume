@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Hp Omen
 
 You can use the [editor on GitHub](https://github.com/pgondpk/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
